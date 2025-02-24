@@ -16,7 +16,7 @@ const userData = {
 };
 
 // API setup (Replace API_KEY with a backend call for security)
-const API_KEY = "AIzaSyAAGP49bSdkMqDCGvfo2ctE_eRVhU7O5Qw"; // Replace with secure backend call
+const API_KEY = "ADD_YOUR_API_KET"; // Replace with secure backend call
 const API_URL = `https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=${API_KEY}`;
 
 // Store chat history
